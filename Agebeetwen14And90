@@ -1,0 +1,8 @@
+<script>
+     var value = prompt("enter your age","");
+if ( value<14 || value >90){
+	alert("false");
+} else{
+  alert("true");
+}
+  </script>
